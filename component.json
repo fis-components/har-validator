@@ -1,0 +1,12 @@
+{
+    "name": "har-validator",
+    "description": "Extremely fast HTTP Archive (HAR) validator using JSON Schema",
+    "repos": "https://github.com/ahmadnassri/har-validator",
+    "main": "./src/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "is-my-json-valid": "^2.10.0"
+    },
+    "version": "1.6.1"
+}
