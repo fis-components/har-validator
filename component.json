@@ -6,7 +6,7 @@
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
-        "is-my-json-valid": "^2.10.0"
+        "is-my-json-valid": "^2.10.1"
     },
-    "version": "1.7.0"
+    "version": "1.7.1"
 }
